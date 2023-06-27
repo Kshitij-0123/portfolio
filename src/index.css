@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+body {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  /* width: fit-content; */
+  height: 100vh;
+}
+
+#root{
+  width: 97%;
+  height: 96%;
+  /* border: 2px white solid; */
+}
